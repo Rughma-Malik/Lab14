@@ -1,0 +1,5 @@
+[nginx]
+51.112.46.165
+
+[nginx:vars]
+ansible_user=ec2-user
